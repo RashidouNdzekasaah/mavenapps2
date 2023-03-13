@@ -13,3 +13,10 @@
     </dependencies>
     
 </project>
+
+public class WelcomeMessage {
+    public static void main(String[] args) {
+        System.out.println("Raj welcome to Insight Tech where knowledge are made manifest");
+    }
+}
+
