@@ -9,9 +9,9 @@
     <version>1.0-SNAPSHOT</version>
     
     <dependencies>
-        <!-- Add any required dependencies here -->
+        
              
-              <properties>
+           <properties>
                 <jdk.version>11.0.16</jdk.version>
                 <spring.version>5.1.2.RELEASE</spring.version>
                 <junit.version>4.11</junit.version>
